@@ -1,3 +1,5 @@
 This is a small change test
 
 Needs to redo it to check CI/CD pipeline again
+
+Finish the assignment, now just need to do a push to test the CI/CD Pipeline
