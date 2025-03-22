@@ -1,5 +1,7 @@
-This is a small change test
+- This is a small change test
 
-Needs to redo it to check CI/CD pipeline again
+- Needs to redo it to check CI/CD pipeline again
 
-Finish the assignment, now just need to do a push to test the CI/CD Pipeline
+- Finish the assignment, now just need to do a push to test the CI/CD Pipeline
+
+- Fix the YAML file and prepare to push again to test the Docker Image
